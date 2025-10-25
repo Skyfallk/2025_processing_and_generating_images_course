@@ -123,6 +123,7 @@ P.S. Инвайт действует всего 7 дней!!!
 ## Доклады
 
 Темы докладов будут опубликованы позже, нужно будет выбрать понравившуюся и записаться в таблицу.
+https://docs.google.com/spreadsheets/d/1yw8xrIHzrtNOUxkRzzha_jd09ZEHy0R5XiWisfqg3iY/edit?usp=sharing
 
 ### Требования к докладу
 
