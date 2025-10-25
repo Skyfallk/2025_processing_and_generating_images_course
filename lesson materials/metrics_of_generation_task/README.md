@@ -30,6 +30,7 @@
 
 ### Директории/Файлы:
 - `metrics_of_generation_task.ipynb` - блокнот с текстом и кодом лекции
+- [датасет](https://huggingface.co/datasets/pscotti/naturalscenesdataset/tree/main)
 
 ### Литература
 - [Исаченко Р. Порождающие модели машинного обучения. МФТИ, 2023](https://www.youtube.com/playlist?list=PLk4h7dmY2eYHVCEMMMqdKes__ehs5mRtR)
